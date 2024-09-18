@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="584fcfc2-2bc3-458a-9c96-f3a7904488f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Console/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Console/src/main/java/sammycode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Console/src/main/java/sammycode/console/ConsoleNumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Console/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/Config/GameConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/GameImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/GuessCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/MassageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/MessageGeneratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/NumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/java/sammycode/NumberGeneratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/resources/Config/Game.Properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/WebMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/interceptor/RequestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/service/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/service/GameServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/util/AttributeNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/util/GameMappings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/util/ViewNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/sammycode/util/thymeleaf/DecoupleLogicSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/footer.th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/fragments/head.th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/game-over.th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/home.th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/templates/play.th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/test/java/sammycode/config/WebConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/test/java/sammycode/controller/GameControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Core/src/main/resources/messages_es.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fHecx2pnSctjSBgt5m36CH1PLo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.WebMain.executor": "Run",
+    "Application.sammycode.Main.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Maven.Console [install].executor": "Run",
+    "Maven.Core [install].executor": "Run",
+    "Maven.Guess-the-number-game [clean,instal].executor": "Run",
+    "Maven.Guess-the-number-game [clean,install].executor": "Run",
+    "Maven.Guess-the-number-game [clean].executor": "Run",
+    "Maven.Guess-the-number-game [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowCommit.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "22 (2)",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/DELL/Desktop/SpringLearning/Guess-the-number-game/Console/src/main/java/sammycode",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/SpringLearning/Guess-the-number-game",
+    "onboarding.tips.debug.path": "C:/Users/DELL/Desktop/SpringLearning/Guess-the-number-game/web/src/main/java/SammyCode/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sammycode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\web\src\main\resources\templates\fragments" />
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\web\src\main\resources\templates" />
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\web\src\main\resources" />
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\Libs" />
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\Core\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\web\src\main\resources\templates" />
+      <recent name="C:\Users\DELL\Desktop\SpringLearning\Guess-the-number-game\Core\src\main\java\sammycode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sammycode" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean instal" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WebMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sammycode.console.Main" />
+      <module name="Console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sammycode.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sammycode.WebMain" />
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sammycode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sammycode.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sammycode.Main" />
+      <module name="Console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sammycode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebMain" />
+        <item itemvalue="Application.sammycode.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="584fcfc2-2bc3-458a-9c96-f3a7904488f6" name="Changes" comment="" />
+      <created>1713462517459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713462517459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.UnsatisfiedDependencyException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/src/main/java/sammycode/learnprogramming/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
